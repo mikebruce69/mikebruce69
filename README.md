@@ -2,7 +2,14 @@
 
 👀 I’m interested in exploring new technologies, tinkering with gadgets, and delving into the world of digital art.
 
-🌱 I’m currently learning "I am currently enhancing my expertise in cryptocurrency-related technologies, including blockchain fundamentals, cryptographic protocols, and decentralized finance (DeFi). Engaging in self-study and practical applications, I aim to develop a comprehensive understanding of digital assets, smart contracts, and tokenization. This initiative reflects my commitment to staying abreast of emerging trends in the fintech sector and leveraging innovative solutions to drive value. Eager to contribute my evolving crypto knowledge to dynamic projects and collaborate with teams at the forefront of blockchain innovation."
+🌱 I’m currently learning "I am currently enhancing my expertise in cryptocurrency-related technologies, including blockchain fundamentals, cryptographic protocols, and decentralized finance (DeFi). Tech Enthusiast | AI | Robotics | Modern Warfare Passionate about the latest advancements in software, artificial intelligence, robotics, and modern warfare technology. Always exploring cutting-edge innovations in weapon systems, automation, and defense tech.
+
+🔹 AI & Machine Learning
+🔹 Robotics & Automation
+🔹 Modern Warfare & Weaponry
+🔹 Software Development
+
+💡 Innovate. Build. Evolve.
 
 💞️ I’m looking to collaborate on innovative projects that blend technology and creativity, especially those focusing on sustainability and social impact.
 
@@ -10,4 +17,4 @@
 
 😄 Pronouns: He/him.
 
-⚡ Fun fact: I'm an avid traveler and have visited over 20 countries, always seeking out unique cultural experiences and delicious local cuisine.
+⚡ Fun fact:The first computer bug was a real moth stuck in a relay of the Harvard Mark II computer in 1947
